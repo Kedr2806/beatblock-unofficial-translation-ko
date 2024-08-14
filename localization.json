@@ -38,179 +38,223 @@
     },
     "twitterPlug": {
         "en": "Follow us on Twitter! @BeatblockGame",
-        "owo": "Fowwow uws on twittew! @beatblockgame"
+        "owo": "Fowwow uws on twittew! @beatblockgame",
+        "ko": "트위터에서 팔로우해주세요! @BeatblockGame"
     },
     "returnToMenuPrompt_keyboard": {
         "en": "(press escape to return to menu)",
-        "owo": "(pwess escape to wetuwwn to menuw)"
+        "owo": "(pwess escape to wetuwwn to menuw)",
+        "ko": "(escape를 눌러 메뉴로 나가기)"
     },
     "returnToMenuPrompt_controller": {
         "en": "(press start to return to menu)",
-        "owo": "(pwess stawt to wetuwwn to menuw)"
+        "owo": "(pwess stawt to wetuwwn to menuw)",
+        "ko": "(start를 눌러 메뉴로 나가기)"
     },
     "optionsHint": {
         "en": "(Left and Right to change values)",
-        "owo": "(left and right to change vawuwes)"
+        "owo": "(left and right to change vawuwes)",
+        "ko": "(왼쪽과 오른쪽 방향키로 값 변경)"
     },
     "optionsEnabled": {
         "en": ": Enabled",
-        "owo": ": enabwed"
+        "owo": ": enabwed",
+        "ko": ": 활성화"
     },
     "optionsDisabled": {
         "en": ": Disabled",
-        "owo": ": disabwed"
+        "owo": ": disabwed",
+        "ko": ": 비활성화"
     },
     "optionsHitsounds": {
         "en": "Hitsounds",
-        "owo": "Hitsouwnds"
+        "owo": "Hitsouwnds",
+        "ko": "히트사운드"
     },
     "optionsInputOffset": {
         "en": "Input offset: @@1@@ ms",
-        "owo": "Inpuwt offset: @@1@@ ms"
+        "owo": "Inpuwt offset: @@1@@ ms",
+        "ko": "입력 오프셋: @@1@@ ms"
     },
     "optionsCalibrate": {
         "en": "Calibrate",
-        "owo": "Cawibwate"
+        "owo": "Cawibwate",
+        "ko": "보정"
     },
     "optionsSfxVolume": {
         "en": "SFX volume: @@1@@",
-        "owo": "Sfx vowuwme: @@1@@"
+        "owo": "Sfx vowuwme: @@1@@",
+        "ko": "SFX 음량: @@1@@"
     },
     "optionsMusicVolume": {
         "en": "Music volume: @@1@@",
-        "owo": "Muwsic vowuwme: @@1@@"
+        "owo": "Muwsic vowuwme: @@1@@",
+        "ko": "음악 음량: @@1@@"
     },
     "optionsFullscreen": {
         "en": "Fullscreen",
-        "owo": "Fuwwwscween"
+        "owo": "Fuwwwscween",
+        "ko": "전체화면"
     },
     "optionsWindowScale": {
         "en": "Window scale: @@1@@x",
-        "owo": "Window scawe: @@1@@x"
+        "owo": "Window scawe: @@1@@x",
+        "ko": "창 크기: @@1@@x"
     },
     "optionsGraphics": {
         "en": "Graphics",
-        "owo": "Gwaphics"
+        "owo": "Gwaphics",
+        "ko": "그래픽"
     },
     "optionsAudio": {
         "en": "Audio",
-        "owo": "Auwdio"
+        "owo": "Auwdio",
+        "ko": "오디오"
     },
     "optionsGameplay": {
         "en": "Gameplay",
-        "owo": "Gamepway"
+        "owo": "Gamepway",
+        "ko": "게임플레이"
     },
     "optionsMouseSettings": {
         "en": "Mouse Settings",
-        "owo": "Mouwse settings"
+        "owo": "Mouwse settings",
+        "ko": "마우스 설정"
     },
     "optionsForceMouseKeyboard": {
         "en": "Force Mouse+Keyboard",
-        "owo": "Fowce mouwse+keyboawd"
+        "owo": "Fowce mouwse+keyboawd",
+        "ko": "마우스+키보드 강제"
     },
     "optionsCircleSnap": {
         "en": "Circle Snap",
-        "owo": "Ciwcwe snap"
+        "owo": "Ciwcwe snap",
+        "ko": "원 고정"
     },
     "optionsLockToWindow": {
         "en": "Lock Mouse to Window",
-        "owo": "Lock mouwse to window"
+        "owo": "Lock mouwse to window",
+        "ko": "창에 마우스 고정"
     },
     "optionsCursorMode": {
         "en": "In-game Cursor mode: @@1@@",
-        "owo": "In-game cuwwsow mode: @@1@@"
+        "owo": "In-game cuwwsow mode: @@1@@",
+        "ko": "인게임 커서 모드: @@1@@"
     },
     "enumCursorDefault": {
         "en": "Default",
-        "owo": "Defauwwt"
+        "owo": "Defauwwt",
+        "ko": "기본"
     },
     "enumCursorLarge": {
         "en": "Large",
-        "owo": "Lawge"
+        "owo": "Lawge",
+        "ko": "큼"
     },
     "enumCursorInvert": {
         "en": "Invert",
-        "owo": "Invewt"
+        "owo": "Invewt",
+        "ko": "반전"
     },
     "optionsHUD": {
         "en": "HUD Mode: @@1@@",
-        "owo": "Hud mode: @@1@@"
+        "owo": "Hud mode: @@1@@",
+        "ko": "HUD 모드: @@1@@"
     },
     "enumHUDDefault": {
         "en": "Default",
-        "owo": "Defauwwt"
+        "owo": "Defauwwt",
+        "ko": "기본"
     },
     "enumHUDExpanded": {
         "en": "Expanded",
-        "owo": "Expanded"
+        "owo": "Expanded",
+        "ko": "확장"
     },
     "enumHUDNone": {
         "en": "None",
-        "owo": "None"
+        "owo": "None",
+        "ko": "없음"
     },
     "optionsAccessibility": {
         "en": "Accessibility",
-        "owo": "Accessibiwity"
+        "owo": "Accessibiwity",
+        "ko": "접근성"
     },
     "optionsVFX": {
         "en": "VFX: @@1@@",
-        "owo": "Vfx: @@1@@"
+        "owo": "Vfx: @@1@@",
+        "ko": "VFX: @@1@@"
     },
     "optionsVFXFull": {
         "en": "Full",
-        "owo": "Fuwww"
+        "owo": "Fuwww",
+        "ko": "전체"
     },
     "optionsVFXDecreased": {
         "en": "Decreased",
-        "owo": "decweased"
+        "owo": "decweased",
+        "ko": "감소"
     },
     "optionsVFXNone": {
         "en": "None",
-        "owo": "None"
+        "owo": "None",
+        "ko": "없음"
     },
     "optionsTaps": {
         "en": "Taps: @@1@@",
-        "owo": "Taps: @@1@@"
+        "owo": "Taps: @@1@@",
+        "ko": "탭: @@1@@"
     },
     "optionsSides": {
         "en": "Sides: @@1@@",
-        "owo": "Sides: @@1@@"
+        "owo": "Sides: @@1@@",
+        "ko": "사이드: @@1@@"
     },
     "optionsNotesDefault": {
         "en": "Default",
-        "owo": "Defauwwt"
+        "owo": "Defauwwt",
+        "ko": "기본"
     },
     "optionsNotesLenient": {
         "en": "Lenient",
-        "owo": "Wenient"
+        "owo": "Wenient",
+        "ko": "관대함"
     },
     "optionsNotesAuto": {
         "en": "Automatic",
-        "owo": "Auwtomatic"
+        "owo": "Auwtomatic",
+        "ko": "자동"
     },
     "optionsDisplayMode": {
         "en": "Display Mode: @@1@@",
-        "owo": "Dispway mode: @@1@@"
+        "owo": "Dispway mode: @@1@@",
+        "ko": "화면 모드: @@1@@"
     },
     "enumWindowed": {
         "en": "Windowed",
-        "owo": "WindOwOed"
+        "owo": "WindOwOed",
+        "ko": "창"
     },
     "enumBorderless": {
         "en": "Borderless Windowed",
-        "owo": "Bowdewwess windOwOed"
+        "owo": "Bowdewwess windOwOed",
+        "ko": "경계 없는 창"
     },
     "enumFullscreen": {
         "en": "Fullscreen",
-        "owo": "Fuwwwscween"
+        "owo": "Fuwwwscween",
+        "ko": "전체화면"
     },
     "back": {
         "en": "Back",
-        "owo": "Back"
+        "owo": "Back",
+        "ko": "이전"
     },
     "quitToMenu": {
         "en": "Quit to menu",
-        "owo": "Quwit to menuw"
+        "owo": "Quwit to menuw",
+        "ko": "메뉴로 나가기"
     },
     "optionsTestEnum": {
         "en": "Test enum: @@1@@"
@@ -226,71 +270,93 @@
     },
     "optionsLanguage": {
         "en": "Language",
-        "owo": "Languwage"
+        "owo": "Languwage",
+        "ko": "언어"
     },
     "lang_en": {
         "en": "English",
-        "owo": "Engwish"
+        "owo": "Engwish",
+        "ko": "영어"
     },
     "lang_jp": {
         "en": "Japanese",
-        "owo": "Japanese"
+        "owo": "Japanese",
+        "ko": "일본어"
     },
     "lang_owo": {
         "en": "OwO",
-        "owo": "OwO"
+        "owo": "OwO",
+        "ko": "OwO"
+    },
+    "lang_ko": {
+        "en": "Korean",
+        "owo": "Kowean",
+        "ko": "한국어"
     },
     "unplayed": {
         "en": "Unplayed!",
-        "owo": "Unpwayed! OwO"
+        "owo": "Unpwayed! OwO",
+        "ko": "플레이 안함!"
     },
     "play": {
         "en": "Play",
-        "owo": "Pway"
+        "owo": "Pway",
+        "ko": "플레이"
     },
     "edit": {
         "en": "Edit",
-        "owo": "Edit"
+        "owo": "Edit",
+        "ko": "편집"
     },
     "createlevel": {
         "en": "Create level",
-        "owo": "Cweate wevew"
+        "owo": "Cweate wevew",
+        "ko": "레벨 만들기"
     },
     "openCustomsFolder": {
         "en": "Open folder",
-        "owo": "Open fowdew"
+        "owo": "Open fowdew",
+        "ko": "폴더 열기"
     },
     "putLevelsInHere": {
         "en": "Put levels in here!",
-        "owo": "Puwt wevews in hewe! OwO"
+        "owo": "Puwt wevews in hewe! OwO",
+        "ko": "여기에 레벨을 놓으세요!"
     },
     "bpm": {
         "en": "@@1@@ BPM",
-        "owo": "@@1@@ BPM UwU"
+        "owo": "@@1@@ BPM UwU",
+        "ko": "@@1@@ BPM"
     },
     "editorWarning": {
         "en": "Hello, thanks for checking out the level editor!\nWhile its usable to create levels, it is currently not very user friendly, and is prone to glitches. We plan to smooth it out over the course of development. Please consider the level editor in its current state experimental.\nThat being said, have fun, and make sure to save often!\n\n(Press enter to go to editor, or escape to quit)",
-        "owo": "hewwo, thanks fow checking ouwt the wevew editow! OwO\nwhiwe its uwsabwe to cweate wevews, it is cuwwwentwy not vewy uwsew fwiendwy, and is pwone to gwitches. We pwan to smooth it ouwt ovew the couwwse of devewopment. Pwease considew the wevew editow in its cuwwwent state expewimentaw.\n that being said, have fuwn, and make suwwe to save often! OwO\n\n(pwess entew to go to editow, ow escape to quwit)"
+        "owo": "hewwo, thanks fow checking ouwt the wevew editow! OwO\nwhiwe its uwsabwe to cweate wevews, it is cuwwwentwy not vewy uwsew fwiendwy, and is pwone to gwitches. We pwan to smooth it ouwt ovew the couwwse of devewopment. Pwease considew the wevew editow in its cuwwwent state expewimentaw.\n that being said, have fuwn, and make suwwe to save often! OwO\n\n(pwess entew to go to editow, ow escape to quwit)",
+        "ko": "안녕하세요, 레벨 에디터를 봐주셔서 고마워요!\n레벨을 만들기에는 충분하지만, 지금은 사용자 편의성이 부족하고 여러 문제가 자주 생길 수 있어요. 개발을 거치면서 다듬을 계획이에요. 현재재 레벨 에디터가 실험 단계라는 것을 고려해 주세요.\n설명은 충분히 했으니 재밌게 즐기시고, 자주 저장하는 것을 잊지 마세요!\n\n(enter를 눌러 에디터로 들어가거나, escape를 눌러 나가기)"
     },
     "errorMessage": {
         "en": "Something broke while playing a level! Here are the details:\n@@1@@",
-        "owo": "something bwoke whiwe pwaying a wevew! OwO hewe awe the detaiws:\n@@1@@"
+        "owo": "something bwoke whiwe pwaying a wevew! OwO hewe awe the detaiws:\n@@1@@",
+        "ko": "레벨을 플레이하는 중에 뭔가 망가졌어요! 여기 자세한 내용이에요:\n@@1@@"
     },
     "tutorial_1": {
         "en": "So you want to block beats?\nIt's going to take an awful lot of practice.",
-        "owo": "so u want to bwock beats? UwU\nit's going to take an awfuww wot of pwactice."
+        "owo": "so u want to bwock beats? UwU\nit's going to take an awfuww wot of pwactice.",
+        "ko": "그래서 비트를 막고 싶다고요?\n고된 연습이 필요할 거에요."
     },
     "tutorial_2_mouse": {
         "en": "Let's start with the basics.\nFor Blocks and Holds, simply move your paddle with the mouse to hit them.",
-        "owo": "let's stawt with the basics.\n fow bwocks and howds, simpwy move uw paddwe with the mouwse to hit them."
+        "owo": "let's stawt with the basics.\n fow bwocks and howds, simpwy move uw paddwe with the mouwse to hit them.",
+        "ko": "기본부터 시작하자고요.\n블록과 홀드는, 그냥 마우스로 패들을 움직여서 맞추면 돼요."
     },
     "tutorial_2_controller": {
         "en": "Let's start with the basics.\nFor Blocks and Holds, simply move your paddle with the analog stick to hit them.",
-        "owo": "let's stawt with the basics.\n fow bwocks and howds, simpwy move uw paddwe with the anawog stick to hit them."
+        "owo": "let's stawt with the basics.\n fow bwocks and howds, simpwy move uw paddwe with the anawog stick to hit them.",
+        "ko": "기본부터 시작하자고요.\n블록과 홀드는, 그냥 조이스틱으로 패들을 움직여서 맞추면 돼요."
     },
     "tutorial_3": {
         "en": "Give it a go!",
-        "owo": "Give it a go! OwO"
+        "owo": "Give it a go! OwO",
+        "ko": "한번 해봐요!"
     },
     "tutorial_4": {
         "en": "Not bad, but let's face it, that was easy.",
