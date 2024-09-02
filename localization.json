@@ -1,50 +1,50 @@
 {
     "playdemolevels": {
         "en": "Play Demo Levels",
-        "owo": "Pway demo levews",
-        "ko": "데모 레벨 플레이"
+        "ko": "데모 레벨 플레이",
+        "owo": "Pway demo levews"
     },
     "customs": {
         "en": "Custom Levels",
         "jp": "Japanese for custom levels",
-        "owo": "Cuwstom levews",
-        "ko": "커스텀 레벨"
+        "ko": "커스텀 레벨",
+        "owo": "Cuwstom levews"
     },
     "settings": {
         "en": "Settings",
         "jp": "Japanese for settings",
-        "owo": "Settings UwU",
-        "ko": "설정"
+        "ko": "설정",
+        "owo": "Settings UwU"
     },
     "credits": {
         "en": "Credits",
-        "owo": "Cwedits",
-        "ko": "크레딧"
+        "ko": "크레딧",
+        "owo": "Cwedits"
     },
     "exitgame": {
         "en": "Exit Game",
-        "owo": "Exit game UmU",
-        "ko": "게임 나가기"
+        "ko": "게임 나가기",
+        "owo": "Exit game UmU"
     },
     "devLevelSelect": {
         "en": "Developer Level Select",
-        "owo": "Devewopew levew sewect",
-        "ko": "개발자 레벨 선택"
+        "ko": "개발자 레벨 선택",
+        "owo": "Devewopew levew sewect"
     },
     "discordLink": {
         "en": "Join our Discord!",
-        "owo": "Join ouww discowd! OwO",
-        "ko": "디스코드에 참여해주세요!"
+        "ko": "디스코드에 참여해주세요!",
+        "owo": "Join ouww discowd! OwO"
     },
     "twitterPlug": {
         "en": "Follow us on Twitter! @BeatblockGame",
-        "owo": "Fowwow uws on twittew! @beatblockgame",
-        "ko": "트위터에서 팔로우해주세요! @BeatblockGame"
+        "ko": "트위터에서 팔로우해주세요! @BeatblockGame",
+        "owo": "Fowwow uws on twittew! @beatblockgame"
     },
     "returnToMenuPrompt_keyboard": {
         "en": "(press escape to return to menu)",
-        "owo": "(pwess escape to wetuwwn to menuw)",
-        "ko": "(escape를 눌러 메뉴로 나가기)"
+        "ko": "(escape를 눌러 메뉴로 나가기)",
+        "owo": "(pwess escape to wetuwwn to menuw)"
     },
     "returnToMenuPrompt_controller": {
         "en": "(press start to return to menu)",
@@ -331,7 +331,7 @@
     "editorWarning": {
         "en": "Hello, thanks for checking out the level editor!\nWhile its usable to create levels, it is currently not very user friendly, and is prone to glitches. We plan to smooth it out over the course of development. Please consider the level editor in its current state experimental.\nThat being said, have fun, and make sure to save often!\n\n(Press enter to go to editor, or escape to quit)",
         "owo": "hewwo, thanks fow checking ouwt the wevew editow! OwO\nwhiwe its uwsabwe to cweate wevews, it is cuwwwentwy not vewy uwsew fwiendwy, and is pwone to gwitches. We pwan to smooth it ouwt ovew the couwwse of devewopment. Pwease considew the wevew editow in its cuwwwent state expewimentaw.\n that being said, have fuwn, and make suwwe to save often! OwO\n\n(pwess entew to go to editow, ow escape to quwit)",
-        "ko": "안녕하세요, 레벨 에디터를 봐주셔서 고마워요!\n레벨을 만들기에는 충분하지만, 지금은 사용자 편의성이 부족하고 여러 문제가 자주 생길 수 있어요. 개발을 거치면서 다듬을 계획이에요. 현재재 레벨 에디터가 실험 단계라는 것을 고려해 주세요.\n설명은 충분히 했으니 재밌게 즐기시고, 자주 저장하는 것을 잊지 마세요!\n\n(enter를 눌러 에디터로 들어가거나, escape를 눌러 나가기)"
+        "ko": "안녕하세요, 레벨 에디터를 봐주셔서 고마워요!\n레벨을 만들기에는 충분하지만, 지금은 사용자 편의성이 부족하고 여러 문제가 자주 생길 수 있어요. 개발을 거치면서 다듬을 계획이에요. 현재 레벨 에디터가 실험 단계라는 것을 고려해 주세요.\n설명은 충분히 했으니 재밌게 즐기시고, 자주 저장하는 것을 잊지 마세요!\n\n(enter를 눌러 에디터로 들어가거나, escape를 눌러 나가기)"
     },
     "errorMessage": {
         "en": "Something broke while playing a level! Here are the details:\n@@1@@",
