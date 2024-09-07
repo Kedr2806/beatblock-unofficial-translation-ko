@@ -41,6 +41,11 @@
         "ko": "트위터에서 팔로우해주세요! @BeatblockGame",
         "owo": "Fowwow uws on twittew! @beatblockgame"
     },
+    "tutorialNag": {
+        "en": "Please play the tutorial in \"Play Demo Levels\" before playing custom levels. ",
+        "ko": "커스텀 레벨을 플레이하기 전에 \"데모 레벨 플레이\"에서 튜토리얼을 플레이 해주세요. ",
+        "owo": "Pwease pway the tutowiaw in \"Pway demo levews\" befowe pwaying custom levews. "
+    },
     "returnToMenuPrompt_keyboard": {
         "en": "(press escape to return to menu)",
         "ko": "(escape를 눌러 메뉴로 나가기)",
@@ -101,6 +106,11 @@
         "ko": "창 크기: @@1@@x",
         "owo": "Window scawe: @@1@@x"
     },
+    "optionsPlayMenuMusic": {
+        "en": "Play menu music",
+        "ko": "메뉴 음악 재생",
+        "owo": "Plway menu muwusic"
+    },
     "optionsGraphics": {
         "en": "Graphics",
         "ko": "그래픽",
@@ -115,6 +125,11 @@
         "en": "Gameplay",
         "ko": "게임플레이",
         "owo": "Gamepway"
+    },
+    "optionsMuteOnFocusLoss": {
+        "en": "Mute on Focus Loss",
+        "ko": "Mute on Focus Loss",
+        "owo": "Mute on Focus Loss"
     },
     "optionsMouseSettings": {
         "en": "Mouse Settings",
@@ -140,6 +155,11 @@
         "en": "In-game Cursor mode: @@1@@",
         "ko": "인게임 커서 모드: @@1@@",
         "owo": "In-game cuwwsow mode: @@1@@"
+    },
+    "optionsDisableClick": {
+        "en": "Disable Clicking on Taps",
+        "ko": "탭에서 클릭 비활성화",
+        "owo": "Disable Clicking on Taps"
     },
     "enumCursorDefault": {
         "en": "Default",
@@ -171,10 +191,20 @@
         "ko": "확장",
         "owo": "Expanded"
     },
+    "enumHUDExpandedPlus": {
+        "en": "Expanded (w/ Miss & Barely display)",
+        "ko": "확장 (놓침 및 부정확 표시 포함)",
+        "owo": "Expanded (w/ Miss & Barely display) (owo)"
+    },
     "enumHUDNone": {
         "en": "None",
         "ko": "없음",
         "owo": "None"
+    },
+    "optionsVSync": {
+        "en": "VSync",
+        "ko": "수직 동기화",
+        "owo": "VSync"
     },
     "optionsAccessibility": {
         "en": "Accessibility",
@@ -246,6 +276,31 @@
         "ko": "전체화면",
         "owo": "Fuwwwscween"
     },
+    "optionsKeybinds": {
+        "en": "Controls",
+        "ko": "조작",
+        "owo": "Controls"
+    },
+    "optionsKeybindsKeyboardGameplay": {
+        "en": "Gameplay Controls (Keyboard)",
+        "ko": "게임플레이 조작 (키보드)",
+        "owo": "Gameplay Controls (Keyboard)"
+    },
+    "optionsKeybindsKeyboardMenu": {
+        "en": "Menu Controls (Keyboard)",
+        "ko": "메뉴 조작 (키보드)",
+        "owo": "Menu Controls (Keyboard)"
+    },
+    "optionsKeybindsKeyboardEditor": {
+        "en": "Editor Controls (Keyboard)",
+        "ko": "에디터 조작 (키보드)",
+        "owo": "Editor Controls (Keyboard)"
+    },
+    "optionsKeybindsControllerBinds": {
+        "en": "Controller Controls",
+        "ko": "컨트롤러 조작",
+        "owo": "Controller Controls"
+    },
     "back": {
         "en": "Back",
         "ko": "이전",
@@ -283,6 +338,14 @@
         "ko": "일본어",
         "owo": "Japanese"
     },
+    "lang_zh_hant": {
+        "en": "Traditional Chinese",
+        "ko": "중국어 번체"
+    },
+    "lang_zh_cn": {
+        "en": "Simplified Chinese",
+        "ko": "중국어 간체"
+    },
     "lang_owo": {
         "en": "OwO",
         "ko": "OwO",
@@ -308,6 +371,11 @@
         "ko": "편집",
         "owo": "Edit"
     },
+    "options": {
+        "en": "Options",
+        "ko": "설정",
+        "owo": "Options"
+    },
     "createlevel": {
         "en": "Create level",
         "ko": "레벨 만들기",
@@ -327,6 +395,106 @@
         "en": "@@1@@ BPM",
         "ko": "@@1@@ BPM",
         "owo": "@@1@@ BPM UwU"
+    },
+    "ratemod": {
+        "en": "Game speed: @@1@@",
+        "ko": "게임 속도: @@1@@",
+        "owo": "Game spweed: @@1@@"
+    },
+    "noPRankMessage": {
+        "en": "Ineligible for P-Ranks",
+        "ko": "P-랭크 달성에 충분하지 않습니다",
+        "owo": "No Prank... ;w;"
+    },
+    "optionsMenuHeader": {
+        "en": "Options",
+        "ko": "설정",
+        "owo": "Owoptions"
+    },
+    "restartOn": {
+        "en": "Restart on: @@1@@",
+        "ko": "다음 상황에서 재시작: @@1@@",
+        "owo": "Restart owon: @@1@@"
+    },
+    "optionsRestartOnMiss": {
+        "en": "Miss",
+        "ko": "놓침",
+        "owo": "Miss"
+    },
+    "optionsRestartOnBarely": {
+        "en": "Miss / Barely",
+        "ko": "놓침 / 부정확",
+        "owo": "Miss / Barely"
+    },
+    "optionsNoBarelies": {
+        "en": "No Barelies",
+        "ko": "부정확 없음",
+        "owo": "No Barelies"
+    },
+    "resultsRateDisplay": {
+        "en": "@@1@@x speed",
+        "ko": "@@1@@배속",
+        "owo": "@@1@@x speed"
+    },
+    "resultsAccessibilityLenient": {
+        "en": "Lenient",
+        "ko": "관대함",
+        "owo": "Lenient"
+    },
+    "resultsAccessibilityAutomatic": {
+        "en": "Automatic",
+        "ko": "자동",
+        "owo": "Automatic"
+    },
+    "resultsAccessibilityVFXLow": {
+        "en": "Decreased VFX",
+        "ko": "VFX 감소",
+        "owo": "Decreased VFX"
+    },
+    "resultsAccessibilityVFXNone": {
+        "en": "No VFX",
+        "ko": "VFX 없음",
+        "owo": "No VFX"
+    },
+    "resultsAccessibilityTaps": {
+        "en": "Tap Notes",
+        "ko": "탭 노트",
+        "owo": "Tap Notes"
+    },
+    "resultsAccessibilitySides": {
+        "en": "Side Notes",
+        "ko": "사이드 노트",
+        "owo": "Side Notes"
+    },
+    "optionsMenuDescription1": {
+        "en": "Multiplier to overall game speed. Chart will become faster or slower.",
+        "ko": "전반적인 게임의 배속값입니다. 차트가 빠르거나 느려질 것입니다.",
+        "owo": "Multiplier to overall game speed. Chart will become faster or slower."
+    },
+    "optionsMenuDescription2": {
+        "en": "Reduces intensity of game visual effects, or removes visual effects entirely.",
+        "ko": "게임 시각 효과의 강도를 줄이거나, 시각 효과를 완전히 제거합니다.",
+        "owo": "Reduces intensity of game visual effects, or removes visual effects entirely."
+    },
+    "optionsMenuDescription3": {
+        "en": "Makes tap notes more lenient, or allows you to hit tap notes automatically.",
+        "ko": "탭 노트 판정을 더 관대하게 만들거나, 탭 노트를 자동으로 처리하도록 합니다.",
+        "owo": "Makes tap notes more lenient, or allows you to hit tap notes automatically."
+    },
+    "optionsMenuDescription4": {
+        "en": "Makes side notes more lenient, or allows you to hit side notes automatically.",
+        "ko": "사이드 노트 판정을 더 관대하게 만들거나, 사이드 노트를 자동으로 처리하도록 합니다.",
+        "owo": "Makes side notes more lenient, or allows you to hit side notes automatically."
+    },
+    "optionsMenuDescription5": {
+        "en": "Automatically restarts the level upon missing or hitting a barely.",
+        "ko": "놓침이나 부정확 판정이 나왔을 때 레벨을 자동으로 다시 시작합니다.",
+        "owo": "Automatically restarts the level upon missing or hitting a barely."
+    },
+    "optionsMenuDescription6": {
+        "en": "Removes the ability to obtain Barely judgements, causing a Miss in their place instead.",
+        "ko": "부정확 판정을 제거하여 놓침 판정이 대신 나오게 합니다.",
+        "owo": "Removes the ability to obtain Barely judgements, causing a Miss in their place instead."
     },
     "editorWarning": {
         "en": "Hello, thanks for checking out the level editor!\nWhile its usable to create levels, it is currently not very user friendly, and is prone to glitches. We plan to smooth it out over the course of development. Please consider the level editor in its current state experimental.\nThat being said, have fun, and make sure to save often!\n\n(Press enter to go to editor, or escape to quit)",
@@ -360,10 +528,12 @@
     },
     "tutorial_4": {
         "en": "Not bad, but let's face it, that was easy.",
+        "ko": "나쁘진 않지만, 솔직히 이건 너무 쉬웠어요.",
         "owo": "Not bad, buwt wet's face it, that was easy."
     },
     "tutorial_5": {
         "en": "Time for Taps.\nThey can show up either on their own, or attatched to other notes.",
+        "ko": "탭에 대해 알아볼 차례에요.\n탭은 따로 나올 수도 있고, 다른 노트에 붙어서 나올 수도 있어요.",
         "owo": "time fow taps.\n they can show uwp eithew on theiw own, ow attatched to othew notes."
     },
     "tutorial_6_mouse": {
@@ -436,50 +606,112 @@
     },
     "combo": {
         "en": " combo!",
-        "owo": "combo! OwO"
+        "ko": " 콤보!",
+        "owo": " combOwO!"
     },
     "comboPerfect": {
         "en": " COMBO!!",
-        "owo": "combo!! OwO"
+        "ko": " 콤보!!",
+        "owo": " COMBOwO!!"
     },
     "comboExpanded": {
         "en": "combo",
-        "owo": "combo"
+        "ko": "콤보",
+        "owo": "combowo"
     },
     "accuracyExpanded": {
         "en": "accuracy",
+        "ko": "정확도",
         "owo": "accuwwacy"
     },
-    "difficultyDemo": {
-        "en": "Demo",
-        "owo": "Demo"
+    "accuracyBarelySingular": {
+        "en": " barely",
+        "ko": " 부정확",
+        "owo": " bawewy"
+    },
+    "accuracyBarelyPlural": {
+        "en": " barelies",
+        "ko": " 부정확",
+        "owo": " bawewies"
+    },
+    "accuracyMissSingular": {
+        "en": " miss",
+        "ko": " 놓침",
+        "owo": " miss ;-;"
+    },
+    "accuracyMissPlural": {
+        "en": " misses",
+        "ko": " 놓침",
+        "owo": " misses ;-;"
+    },
+    "difficultySpecial": {
+        "en": "Special",
+        "ko": "스페셜",
+        "owo": "Speciaw"
+    },
+    "difficultyEasy": {
+        "en": "Easy",
+        "ko": "쉬움",
+        "owo": "Easy"
+    },
+    "difficultyHard": {
+        "en": "Hard",
+        "ko": "어려움",
+        "owo": "Hard"
     },
     "difficultyChallenge": {
         "en": "Challenge",
+        "ko": "챌린지",
         "owo": "Chawwenge"
+    },
+    "difficultyExpert": {
+        "en": "Apocrypha",
+        "ko": "외전",
+        "owo": "Apowocrypha"
+    },
+    "pauseHeader": {
+        "en": "- PAUSED -",
+        "ko": "- 일시정지 -",
+        "owo": "- PAWSED -"
+    },
+    "pauseRetry": {
+        "en": "Retry",
+        "ko": "재시도",
+        "owo": "Retwy"
+    },
+    "pauseQuit": {
+        "en": "Quit",
+        "ko": "나가기",
+        "owo": "Quit"
     },
     "grade": {
         "en": "Grade:",
+        "ko": "등급:",
         "owo": "gwade:"
     },
     "misses": {
         "en": "Misses: @@1@@",
+        "ko": "놓침: @@1@@",
         "owo": "misses: @@1@@"
     },
     "barelies": {
         "en": "Barelies: @@1@@",
+        "ko": "부정확: @@1@@",
         "owo": "bawewies: @@1@@"
     },
     "continue": {
         "en": "Continue",
+        "ko": "계속하기",
         "owo": "continuwe"
     },
     "retry": {
         "en": "Retry",
+        "ko": "재시도",
         "owo": "retwy"
     },
     "levelTutorial": {
         "en": "Tutorial",
+        "ko": "튜토리얼",
         "owo": "Tuwtowiaw"
     },
     "levelTutorialDescription": {
@@ -529,5 +761,130 @@
     "crashNo": {
         "en": "No",
         "owo": "no"
+    },
+    "keybindsAddNew": {
+        "en": "Add",
+        "ko": "추가",
+        "owo": "Add~"
+    },
+    "keybindsPressKey": {
+        "en": "Press a Key...",
+        "ko": "키를 눌러 주세요...",
+        "owo": "Press a Key..."
+    },
+    "keybindspPressButton": {
+        "en": "Press a Button...",
+        "ko": "버튼을 눌러 주세요...",
+        "owo": "Press a Button..."
+    },
+    "keybindsResetDefault": {
+        "en": "Reset all keybinds in all categories",
+        "ko": "전체 분류에 있는 모든 키 할당 초기화",
+        "owo": "Reset aww keybwinds in all categories"
+    },
+    "keybindsJoystick": {
+        "en": "Joystick",
+        "ko": "조이스틱",
+        "owo": "Joystick"
+    },
+    "keybindsAddJoystick": {
+        "en": "Move a Joystick...",
+        "ko": "조이스틱을 움직여 주세요...",
+        "owo": "Move a Joystick..."
+    },
+    "tap1": {
+        "en": "Tap",
+        "ko": "탭",
+        "owo": "Tap"
+    },
+    "tap2": {
+        "en": "Tap (Alt.)",
+        "ko": "탭 (보조)",
+        "owo": "Tap (Alt.)"
+    },
+    "pause": {
+        "en": "pause",
+        "ko": "일시정지",
+        "owo": "pause"
+    },
+    "restart": {
+        "en": "restart",
+        "ko": "재시작",
+        "owo": "restart"
+    },
+    "select": {
+        "en": "select",
+        "ko": "선택",
+        "owo": "select"
+    },
+    "menu_up": {
+        "en": "up",
+        "ko": "위",
+        "owo": "up"
+    },
+    "menu_left": {
+        "en": "left",
+        "ko": "왼쪽",
+        "owo": "left"
+    },
+    "menu_right": {
+        "en": "right",
+        "ko": "오른쪽",
+        "owo": "right"
+    },
+    "menu_down": {
+        "en": "down",
+        "ko": "아래",
+        "owo": "down"
+    },
+    "move_up": {
+        "en": "up",
+        "ko": "위",
+        "owo": "up"
+    },
+    "move_left": {
+        "en": "left",
+        "ko": "왼쪽",
+        "owo": "left"
+    },
+    "move_right": {
+        "en": "right",
+        "ko": "오른쪽",
+        "owo": "right"
+    },
+    "move_down": {
+        "en": "down",
+        "ko": "아래",
+        "owo": "down"
+    },
+    "modifier": {
+        "en": "modifier",
+        "ko": "modifier",
+        "owo": "modifier"
+    },
+    "save": {
+        "en": "save",
+        "ko": "저장",
+        "owo": "save"
+    },
+    "delete": {
+        "en": "delete",
+        "ko": "삭제",
+        "owo": "delete"
+    },
+    "epilepsyWarning": {
+        "en": "Beatblock has some visuals that may trigger epilepsy or photosensitivity issues for players. Proceed with caution, and please check the accessibility options for settings to remove visual effects if needed.",
+        "ko": "비트블록은 플레이어에게 발작이나 광과민성 문제를 일으킬 수 있는 시각적 요소가 있습니다. 주의를 기울이시고, 필요한 경우 시각 효과를 제거할 수 있는 접근성 설정을 확인하세요.",
+        "owo": "Beatblock has some visuals that may trigger epilepsy or photosensitivity issues for players. Proceed with caution, and please check the accessibility options for settings to remove visual effects if needed."
+    },
+    "demoWarning": {
+        "en": "This game is currently still in a demo phase, and acts as a preview of a small section of the experience. The difficulty curve is not representative of the full game's planned scope & difficulty, and anything in this demo is subject to change between now and release.\nThank you for your understanding!",
+        "ko": "이 게임은 현재 베타 단계이며, 전체 경험의 일부 미리보기로서 작용합니다. 난이도 설정값은 전체 게임의 계획된 초점 및 난이도를 나타내지 않으며, 이 데모의 요소는 현재 그리고 출시 때 변경될 수 있습니다.\n양해해 주셔서 감사합니다!",
+        "owo": "This game is currently still in a demo phase, and acts as a preview of a small section of the experience. The difficulty curve is not representative of the full game's planned scope & difficulty, and anything in this demo is subject to change between now and release.\nThank you for your understanding!"
+    },
+    "attentionPls": {
+        "en": "Attention! Please read carefully!",
+        "ko": "주의! 아래 내용을 세심하게 읽어주세요!",
+        "owo": "Attention! Please read carefully!"
     }
 }
